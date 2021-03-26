@@ -65,11 +65,11 @@
 </details>
 <h3>Visitors</h3>
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EladTal14&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EladTal14&theme=tokyonight)
 
 <h3>Followers</h3>
 
-[![Github](https://img.shields.io/github/followers/EladTal14?label=Follow&style=social)]
+![Github](https://img.shields.io/github/followers/EladTal14?label=Follow&style=social)
 
 
 
