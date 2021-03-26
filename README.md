@@ -59,7 +59,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="EladTal14's GitHub Stats" src="https://github-readme-stats.EladTal14.vercel.app/api?username=EladTal14&show_icons=true&hide_border=true" />
+  <img align="left" alt="EladTal14's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EladTal14&show_icons=true&hide_border=true" />
 
 </details>
 
