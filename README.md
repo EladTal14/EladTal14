@@ -36,7 +36,6 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
 <br />
 <br />
@@ -61,19 +60,15 @@
 
   <img align="left" alt="EladTal14's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EladTal14&show_icons=true&hide_border=true&theme=radical" />
 
+<h3>Visitors</h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EladTal14&theme=tokyonight)
+![](https://visitor-badge.laobi.icu/badge?page_id=EladTal14.EladTal14)
+<h3>Followers</h3>
+[![Github](https://img.shields.io/github/followers/EladTal14?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 </details>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EladTal14&theme=tokyonight)
-<br/>
-[[Elad Tal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EladTal14)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=EladTal14.EladTal14)
-<br/>
-
-[![Github](https://img.shields.io/github/followers/EladTal14?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
 [website]: https://portfolio-elad-tal.vercel.app
 [twitter]: https://twitter.com/EladTal4
