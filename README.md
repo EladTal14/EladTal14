@@ -63,10 +63,17 @@
 
 </details>
 
-<!-- <details>
-[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EladTal14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EladTal14&theme=tokyonight)
+<br/>
 [[Elad Tal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EladTal14)](https://github.com/anuraghazra/github-readme-stats)
-</details> -->
+
+<br/>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=EladTal14.EladTal14)
+<br/>
+
+[![Github](https://img.shields.io/github/followers/EladTal14?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
 [website]: https://portfolio-elad-tal.vercel.app
 [twitter]: https://twitter.com/EladTal4
