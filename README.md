@@ -63,8 +63,11 @@
 
 </details>
 
+<details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EladTal14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Elad Tal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EladTal14)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 [website]: https://portfolio-elad-tal.vercel.app
-
 [twitter]: https://twitter.com/EladTal4
 [instagram]: https://instagram.com/deemer141
 [linkedin]: https://www.linkedin.com/in/elad-tal-0355531b7/
