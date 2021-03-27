@@ -63,6 +63,7 @@
   <img align="left" alt="EladTal14's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EladTal14&show_icons=true&hide_border=true&theme=gradient" />
 
 </details>
+<br/>
 <h3>Visitors</h3>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=EladTal14.EladTal14)
