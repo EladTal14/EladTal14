@@ -60,10 +60,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="EladTal14's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EladTal14&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="EladTal14's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EladTal14&show_icons=true&hide_border=true&theme=gradient" />
 
 </details>
 <h3>Visitors</h3>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=EladTal14.EladTal14)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EladTal14&theme=tokyonight)
 
@@ -71,6 +74,8 @@
 
 ![Github](https://img.shields.io/github/followers/EladTal14?label=Follow&style=social)
 
+
+[![Elad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EladTal14)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://portfolio-elad-tal.vercel.app
