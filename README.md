@@ -75,9 +75,6 @@
 ![Github](https://img.shields.io/github/followers/EladTal14?label=Follow&style=social)
 
 
-[![Elad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EladTal14)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [website]: https://portfolio-elad-tal.vercel.app
 [twitter]: https://twitter.com/EladTal4
 [instagram]: https://instagram.com/deemer141
