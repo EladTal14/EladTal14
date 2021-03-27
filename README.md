@@ -70,6 +70,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=EladTal14.EladTal14)
 
 <br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EladTal14&theme=tokyonight)
 
 <h3>Followers</h3>
