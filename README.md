@@ -48,11 +48,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-2. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-3. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+1. 🗣 Commented on [#23533](https://github.com/vercel/next.js/issues/23533) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 💪 Opened PR [#106](https://github.com/urish/pull-request-community/pull/106) in [urish/pull-request-community](https://github.com/urish/pull-request-community)
+3. 🗣 Commented on [#23533](https://github.com/vercel/next.js/issues/23533) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 🗣 Commented on [#104](https://github.com/urish/pull-request-community/issues/104) in [urish/pull-request-community](https://github.com/urish/pull-request-community)
+5. 🗣 Commented on [#104](https://github.com/urish/pull-request-community/issues/104) in [urish/pull-request-community](https://github.com/urish/pull-request-community)
 <!--END_SECTION:activity-->
 
 </details>
