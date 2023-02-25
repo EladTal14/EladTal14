@@ -8,7 +8,7 @@
 - 🔭 I just launched my first PR Open Source
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects and find a job!
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games try and challenge me
 
 
